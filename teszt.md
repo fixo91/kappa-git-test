@@ -41,6 +41,7 @@ amit saját magunkat kell feloldani, amennyiben a git nem tudja ezt elvégezni.
 8.A git diff paranccsal összehasonlithatóak a fájlok, commitok, és bracnek közötti válltoztatások is. A git status parancs pedig a working directory-ban található fájlok aktuális állapotát mutatja meg.
 
 9.A git log parancsal tudjuk megnézni a history-ját egy commitnak valamint különbözö kapcsolokkal ezeket rendezhetjük is.
+
 10.A git status parancsal tudjuk megnézni hogy milyen állapotban van a local reponk.
 
 
